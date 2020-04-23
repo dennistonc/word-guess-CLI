@@ -7,7 +7,7 @@ This app is a CLI word guessing game that receives user input using `inquirer` n
 
 Index.js contains the logic for the course of the game. `index.js` depends on `word.js` which depends on `letter.js`. Both word.js and letter.js contain constructors which are then exported to index.js respectively. 
 
-  
+<br />
 **How it Works**
 
 To start, the user uses node and types `node index.js`. The game then asks in the command line to pick a letter to start.
