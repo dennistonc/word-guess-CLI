@@ -1,7 +1,7 @@
 # Word Guess CLI App
 
 ### Week 11 Homework
-**About This Homework**
+#### About This Homework
 
 This app is a CLI word guessing game that receives user input using `inquirer` npm packages, and through Node.js we can play the game.
 
@@ -9,7 +9,7 @@ Index.js contains the logic for the course of the game. `index.js` depends on `w
 
 <br/>
 
-**How it Works**
+#### How it Works
 
 To start, the user uses node and types `node index.js`. The game then asks in the command line to pick a letter to start.
 ![Starting Point](/images/CLI-1-start.png)
